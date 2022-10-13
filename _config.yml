@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "HK, China"
-  employer         : "Hong Kong University of Science and Technology"
+#  employer         : "Hong Kong University of Science and Technology"
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
  # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  "jlfeng@ust.hk"
