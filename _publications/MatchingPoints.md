@@ -1,6 +1,6 @@
 ---
 title: "Matching Points: Supplementing Instruments with Covariates in Triangular Models."
-collection: research
+collection: publications
 permalink: /research/matching-point
 date: 
 venue: '2nd Round R&R at Journal of Econometrics'
