@@ -1,17 +1,28 @@
 ---
-layout: archive
-title: "Research"
+title: Research
 permalink: /research/
-author_profile: true
+
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Working papers
 
-{% include base_path %}
+**[Regularized Quantile Regression with Interactive Fixed Effects](https://arxiv.org/abs/1911.00166)**  
+ *Conditional acceptance, Econometric Theory*  
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**[Matching Points: Supplementing Instruments with Covariates in Triangular Models](https://arxiv.org/abs/1904.01159)** 
+  *2nd round R&R, Journal of the Econometrics*  
 
+**[Two-sided Discrimination in an Entrepreneurial Financing Setting: Experimental and Theoretical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4065009)** 
+  (joint with Ye Zhang and Weijie Zhong)  
+
+**[Robust Principal Component Analysis with Non-Sparse Errors](https://arxiv.org/abs/1902.08735)**  
+  (with Jushan Bai)  
+  
+
+
+
+
+
+
+
+ 
