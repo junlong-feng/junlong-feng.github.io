@@ -10,5 +10,5 @@ Welcome! I am an Assistant Professor of Economics at the Hong Kong University of
 
 I received my Ph.D in Economics from Columbia University in 2020. 
 
-You can download a PDF copy of my CV [here](/files/cv_jfeng-1.pdf).
+You can download a my CV [here](/files/cv_jfeng-1.pdf).
 
