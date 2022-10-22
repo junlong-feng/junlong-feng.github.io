@@ -56,7 +56,7 @@ $body-color                 : #252a34;
 $background-color           : #252a34;
 $code-background-color      : mix(#000, $background-color, 15%);
 $code-background-color-dark : mix(#000, $background-color, 20%);
-$text-color                 : #eaeaea;
+$text-color                 : #e1eff0;
 $border-color               : mix(#fff, $background-color, 20%);
 
 $primary-color              : #8cd2d5;
@@ -71,7 +71,7 @@ $dribbble-color             : #ea4c89;
 $facebook-color             : #3b5998;
 $flickr-color               : #ff0084;
 $foursquare-color           : #0072b1;
-$github-color               : #171516;
+$github-color               : $lightgrey;
 $google-plus-color          : #dd4b39;
 $instagram-color            : #517fa4;
 $lastfm-color               : #d51007;
