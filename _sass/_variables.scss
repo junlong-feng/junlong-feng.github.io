@@ -47,54 +47,82 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+///
+// Skin: Dark
+// Author: Tian Qi
+// Email: kitian616@outlook.com
+///
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+// main colors
+$main-color-1:     #ff9500;
+$text-color-1:     rgba(#fff, .8);
 
-/* brands */
-$behance-color              : #1769FF;
-$dribbble-color             : #ea4c89;
-$facebook-color             : #3b5998;
-$flickr-color               : #ff0084;
-$foursquare-color           : #0072b1;
-$github-color               : #171516;
-$google-plus-color          : #dd4b39;
-$instagram-color            : #517fa4;
-$lastfm-color               : #d51007;
-$linkedin-color             : #007bb6;
-$pinterest-color            : #cb2027;
-$rss-color                  : #fa9b39;
-$soundcloud-color           : #ff3300;
-$stackoverflow-color        : #fe7a15;
-$tumblr-color               : #32506d;
-$twitter-color              : #55acee;
-$vimeo-color                : #1ab7ea;
-$vine-color                 : #00bf8f;
-$youtube-color              : #bb0000;
-$xing-color                 : #006567;
+$main-color-2:     #ff006a;
+$text-color-2:     rgba(#fff, .8);
 
+$main-color-3:     #202020;
+$text-color-3:     rgba(#fff, .8);
 
-/* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$main-color-theme-light: rgba(#000, .8);
+$main-color-theme-dark:  rgba(#fff, .8);
+
+// page background
+$background-color: #121212;
+
+// text colors
+$text-color-theme-light-d: #000;
+$text-color-theme-light:   #222;
+$text-color-theme-light-l: #888;
+
+$text-color-theme-dark-d:  rgba(#fff, .8);
+$text-color-theme-dark:    rgba(#fff, .7);
+$text-color-theme-dark-l:  rgba(#fff, .5);
+
+$text-color-d:     $text-color-theme-dark-d;
+$text-color:       $text-color-theme-dark;
+$text-color-l:     $text-color-theme-dark-l;
+
+$text-background-color: rgba(#fff, .05);
+
+// header and footer colors
+$header-text-color: $text-color-3;
+$header-background: $main-color-3;
+
+$footer-text-color: $text-color-3;
+$footer-background: $main-color-3;
+
+// border and shadow colors
+$border-color:     mix(#fff, $background-color, 20%);
+$border-color-l:   mix(#fff, $background-color, 10%);
+$decorate-color:   rgba(#fff, .1);
+$mask-color:       rgba(#000, .9);
+$select-color:     rgba($main-color-1, .5);
+
+// function colors
+$green:           #5baa34;
+$blue:            #1c7cd4;
+$yellow:          #c9771f;
+$red:             #da3d45;
+$text-color-function: rgba(#fff, .8);
+
+// logo colors
+$mail-color:       #0072c5;
+$facebook-color:   #4267b2;
+$twitter-color:    #1da1f2;
+$weibo-color:      #e6162d;
+$google-plus-color:#ea4335;
+$telegram-color:   #32afed;
+$medium-color:     #000;
+$zhihu-color:      #0084ff;
+$douban-color:     #42bd56;
+$linkedin-color:   #1074af;
+$github-color:     #000;
+$npm-color:        #fff;
+
+// highlight colors
+@import "skins/highlight/tomorrow-night";
+
 
 
 /*
