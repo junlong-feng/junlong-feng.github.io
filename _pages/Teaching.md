@@ -10,3 +10,4 @@ title: "Teaching"
 
 ### Undergraduate
 - (ECON3334) Introduction to Econometrics
+- (ECON4284) Econometrics for Cross-Section and Panel Data
