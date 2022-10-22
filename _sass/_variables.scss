@@ -48,81 +48,58 @@ $type-size-8                : 0.625em;  // ~10px
    ========================================================================== */
 
 
-///
-// Skin: Dark
-// Author: Tian Qi
-// Email: kitian616@outlook.com
-///
+$background-color: #141010 !default;
+$text-color: #fff6fb !default;
+$primary-color: #f21368 !default;
+$border-color: mix(#fff, $background-color, 20%) !default;
+$code-background-color: mix(#000, $background-color, 15%) !default;
+$code-background-color-dark: mix(#000, $background-color, 20%) !default;
+$form-background-color: mix(#000, $background-color, 15%) !default;
+$footer-background-color: mix($primary-color, #000, 10%) !default;
+$link-color: $primary-color !default;
+$link-color-hover: mix(#fff, $link-color, 25%) !default;
+$link-color-visited: mix(#000, $link-color, 25%) !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
+$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
-// main colors
-$main-color-1:     #ff9500;
-$text-color-1:     rgba(#fff, .8);
+/* neon syntax highlighting (base16) */
+$base00: #ffffff !default;
+$base01: #e0e0e0 !default;
+$base02: #d0d0d0 !default;
+$base03: #b0b0b0 !default;
+$base04: #000000 !default;
+$base05: #101010 !default;
+$base06: #151515 !default;
+$base07: #202020 !default;
+$base08: #ff0086 !default;
+$base09: #fd8900 !default;
+$base0a: #aba800 !default;
+$base0b: #00c918 !default;
+$base0c: #1faaaa !default;
+$base0d: #3777e6 !default;
+$base0e: #ad00a1 !default;
+$base0f: #cc6633 !default;
 
-$main-color-2:     #ff006a;
-$text-color-2:     rgba(#fff, .8);
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
 
-$main-color-3:     #202020;
-$text-color-3:     rgba(#fff, .8);
+/* next/previous buttons */
+.pagination--pager {
+  color: $text-color;
+  background-color: $primary-color;
+  border-color: transparent;
 
-$main-color-theme-light: rgba(#000, .8);
-$main-color-theme-dark:  rgba(#fff, .8);
+  &:visited {
+    color: $text-color;
+  }
+}
 
-// page background
-$background-color: #121212;
-
-// text colors
-$text-color-theme-light-d: #000;
-$text-color-theme-light:   #222;
-$text-color-theme-light-l: #888;
-
-$text-color-theme-dark-d:  rgba(#fff, .8);
-$text-color-theme-dark:    rgba(#fff, .7);
-$text-color-theme-dark-l:  rgba(#fff, .5);
-
-$text-color-d:     $text-color-theme-dark-d;
-$text-color:       $text-color-theme-dark;
-$text-color-l:     $text-color-theme-dark-l;
-
-$text-background-color: rgba(#fff, .05);
-
-// header and footer colors
-$header-text-color: $text-color-3;
-$header-background: $main-color-3;
-
-$footer-text-color: $text-color-3;
-$footer-background: $main-color-3;
-
-// border and shadow colors
-$border-color:     mix(#fff, $background-color, 20%);
-$border-color-l:   mix(#fff, $background-color, 10%);
-$decorate-color:   rgba(#fff, .1);
-$mask-color:       rgba(#000, .9);
-$select-color:     rgba($main-color-1, .5);
-
-// function colors
-$green:           #5baa34;
-$blue:            #1c7cd4;
-$yellow:          #c9771f;
-$red:             #da3d45;
-$text-color-function: rgba(#fff, .8);
-
-// logo colors
-$mail-color:       #0072c5;
-$facebook-color:   #4267b2;
-$twitter-color:    #1da1f2;
-$weibo-color:      #e6162d;
-$google-plus-color:#ea4335;
-$telegram-color:   #32afed;
-$medium-color:     #000;
-$zhihu-color:      #0084ff;
-$douban-color:     #42bd56;
-$linkedin-color:   #1074af;
-$github-color:     #000;
-$npm-color:        #fff;
-
-// highlight colors
-@import "skins/highlight/tomorrow-night";
-
+.ais-search-box .ais-search-box--input {
+  background-color: $form-background-color;
+}
 
 
 /*
