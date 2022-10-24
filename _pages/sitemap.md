@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Pages</h2>
 {% for post in site.pages %}
   {% include archive-single.html %}
 {% endfor %}
