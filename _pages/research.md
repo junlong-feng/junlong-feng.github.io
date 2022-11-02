@@ -4,7 +4,7 @@ permalink: /research/
 
 ---
 
-## Working papers
+## Working Papers
 
 [Regularized Quantile Regression with Interactive Fixed Effects](https://arxiv.org/abs/1911.00166) <br/>
  *Conditional acceptance, Econometric Theory*  
