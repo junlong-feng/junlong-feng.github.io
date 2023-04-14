@@ -4,10 +4,14 @@ permalink: /research/
 
 ---
 
+## Publications
+
+Nuclear Norm Regularized Quantile Regression with Interactive Fixed Effects, ***Econometric Theory***, forthcoming.<br/>
+
+
 ## Working Papers
 
-[Regularized Quantile Regression with Interactive Fixed Effects](https://arxiv.org/abs/1911.00166) <br/>
- *Conditional acceptance, Econometric Theory*  
+[Individual Welfare Analysis: Random Quasilinear Utility, Independence, and Confidence Bounds](https://arxiv.org/abs/2304.01921) <br/>
 
 [Matching Points: Supplementing Instruments with Covariates in Triangular Models](https://arxiv.org/abs/1904.01159) <br/>
   *2nd round R&R, Journal of the Econometrics*  
