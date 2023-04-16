@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Publications
 
-Nuclear Norm Regularized Quantile Regression with Interactive Fixed Effects, ***Econometric Theory***, forthcoming.<br/>
+Nuclear Norm Regularized Quantile Regression with Interactive Fixed Effects, *Econometric Theory*, forthcoming.<br/>
 
 
 ## Working Papers
