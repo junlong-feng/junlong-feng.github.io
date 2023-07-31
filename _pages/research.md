@@ -14,6 +14,9 @@ permalink: /research/
 [Matching Points: Supplementing Instruments with Covariates in Triangular Models](https://arxiv.org/abs/1904.01159) <br/>
   *Conditional Acceptance, Journal of the Econometrics*
 
+[Group-Heterogeneous Changes-in-Changes and Distributional Synthetic Controls](https://arxiv.org/abs/2307.15313) <br/>
+ (with Songnian Chen)  
+
 [Individual Welfare Analysis: Random Quasilinear Utility, Independence, and Confidence Bounds](https://arxiv.org/abs/2304.01921) <br/>
  (with Sokbae (Simon) Lee)  
 
