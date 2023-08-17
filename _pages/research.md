@@ -6,13 +6,13 @@ permalink: /research/
 
 ## Publications
 
+[Matching Points: Supplementing Instruments with Covariates in Triangular Models](https://arxiv.org/abs/1904.01159) <br/>
+  *Journal of the Econometrics*, forthcoming.<br/>
+  
 [Nuclear Norm Regularized Quantile Regression with Interactive Fixed Effects](https://doi.org/10.1017/S0266466623000129), *Econometric Theory*, forthcoming.<br/>
 
 
 ## Working Papers
-
-[Matching Points: Supplementing Instruments with Covariates in Triangular Models](https://arxiv.org/abs/1904.01159) <br/>
-  *Conditional Acceptance, Journal of the Econometrics*
 
 [Group-Heterogeneous Changes-in-Changes and Distributional Synthetic Controls](https://arxiv.org/abs/2307.15313) <br/>
  (with Songnian Chen)  
