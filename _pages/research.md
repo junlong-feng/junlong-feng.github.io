@@ -18,7 +18,7 @@ permalink: /research/
  (with Songnian Chen)  
 
 [Individual Welfare Analysis: Random Quasilinear Utility, Independence, and Confidence Bounds](https://arxiv.org/abs/2304.01921) <br/>
- (with Sokbae (Simon) Lee)  
+ (with Sokbae (Simon) Lee), revision requested by the *Journal of Econometrics*
 
 [Two-sided Discrimination in an Entrepreneurial Financing Setting: Experimental and Theoretical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4065009) <br/>
   (with Ye Zhang, Weijie Zhong and Ofir Gefen)  
