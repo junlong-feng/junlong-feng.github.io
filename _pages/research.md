@@ -21,7 +21,7 @@ permalink: /research/
  (with Sokbae (Simon) Lee), revision requested by the *Journal of Econometrics*
 
 [Two-sided Discrimination in an Entrepreneurial Financing Setting: Experimental and Theoretical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4065009) <br/>
-  (with Ye Zhang, Weijie Zhong and Ofir Gefen)  
+  (with Ye Zhang, Weijie Zhong, and Ofir Gefen)  
 
 [Robust Principal Component Analysis with Non-Sparse Errors](https://arxiv.org/abs/1902.08735)  <br/>
   (with Jushan Bai)  
