@@ -6,10 +6,10 @@ permalink: /research/
 
 ## Publications
 
-(2024). [Matching Points: Supplementing Instruments with Covariates in Triangular Models](https://doi.org/10.1016/j.jeconom.2023.105579) <br/>
+(2024) [Matching Points: Supplementing Instruments with Covariates in Triangular Models](https://doi.org/10.1016/j.jeconom.2023.105579) <br/>
   *Journal of Econometrics*, 238 (1), 105579.<br/>
   
-[Nuclear Norm Regularized Quantile Regression with Interactive Fixed Effects](https://doi.org/10.1017/S0266466623000129)<br/> *Econometric Theory*, forthcoming. [[Code]](/files/code/nuclear_qr_interfe.m) <br/> <br/>
+(2023) [Nuclear Norm Regularized Quantile Regression with Interactive Fixed Effects](https://doi.org/10.1017/S0266466623000129)<br/> *Econometric Theory*, First View, 1-31. [[Code]](/files/code/nuclear_qr_interfe.m) <br/> <br/>
 
 
 ## Working Papers
