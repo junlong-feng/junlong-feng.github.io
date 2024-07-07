@@ -15,10 +15,10 @@ permalink: /research/
 ## Working Papers
 
 [Group-Heterogeneous Changes-in-Changes and Distributional Synthetic Controls](https://arxiv.org/abs/2307.15313), <br/>
- (with Songnian Chen), reject and resubmit, the *Journal of Econometrics* 
+ (with Songnian Chen), reject and resubmit, *Journal of Econometrics* 
 
 [Individual Welfare Analysis: Random Quasilinear Utility, Independence, and Confidence Bounds](https://arxiv.org/abs/2304.01921) <br/>
- (with Sokbae (Simon) Lee), revise and resubmit, the *Journal of Econometrics*
+ (with Sokbae (Simon) Lee), revise and resubmit, *Journal of Econometrics*
 
 [Two-sided Discrimination in an Entrepreneurial Financing Setting: Experimental and Theoretical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4065009) <br/>
   (with Ye Zhang, Weijie Zhong, and Ofir Gefen), submitted; 2024 Academy of Finance Best in Track Plaque  
