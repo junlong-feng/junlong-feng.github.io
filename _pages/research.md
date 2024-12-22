@@ -6,8 +6,8 @@ permalink: /research/
 
 ## Publications
 
-(*In Press*) [Individual Welfare Analysis: Random Quasilinear Utility, Independence, and Confidence Bounds](https://arxiv.org/abs/2304.01921) <br/>
- (with Sokbae (Simon) Lee), *Journal of Econometrics*. <br/>
+(2025) [Individual Welfare Analysis: Random Quasilinear Utility, Independence, and Confidence Bounds](https://doi.org/10.1016/j.jeconom.2024.105927) <br/>
+ (with Sokbae (Simon) Lee), *Journal of Econometrics*, 247 (1), 105927. <br/>
  
 (2024) [Matching Points: Supplementing Instruments with Covariates in Triangular Models](https://doi.org/10.1016/j.jeconom.2023.105579) <br/>
   *Journal of Econometrics*, 238 (1), 105579.<br/>
