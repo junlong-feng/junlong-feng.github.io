@@ -16,7 +16,9 @@ permalink: /research/
 
 
 ## Working Papers
-
+[Robust Quantile Factor Analysis](https://arxiv.org/abs/2501.15761), <br/>
+ (with Songnian Chen)
+ 
 [Group-Heterogeneous Changes-in-Changes and Distributional Synthetic Controls](https://arxiv.org/abs/2307.15313), <br/>
  (with Songnian Chen), reject and resubmit, *Journal of Econometrics* 
 
