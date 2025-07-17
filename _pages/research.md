@@ -16,11 +16,11 @@ permalink: /research/
 
 
 ## Working Papers
-[Robust Quantile Factor Analysis](https://arxiv.org/abs/2501.15761) <br/>
+[Universal Factor Models](https://arxiv.org/abs/2501.15761) <br/>
  (with Songnian Chen)
 
 Semiparametric Estimation of the Copula Parameter in a Quantile Selection Model <br/>
- (with Songnian Chen and Kaixin Zhang), submitted.
+ (with Songnian Chen and Kaixin Zhang), reject and resubmit, *Journal of Econometrics*
  
 [Group-Heterogeneous Changes-in-Changes and Distributional Synthetic Controls](https://arxiv.org/abs/2307.15313) <br/>
  (with Songnian Chen), reject and resubmit, *Journal of Econometrics* 
