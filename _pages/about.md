@@ -12,5 +12,5 @@ My primary research field is econometric theory, with particular interests in no
 
 I received my Ph.D in Economics from Columbia University in 2020. 
 
-You can download my CV [here](/files/CV_JFeng.pdf).
+You can download my CV [here](/files/CV_JF.pdf).
 
