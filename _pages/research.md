@@ -20,7 +20,7 @@ permalink: /research/
  (with Songnian Chen)
 
 Semiparametric Estimation of the Copula Parameter in a Quantile Selection Model <br/>
- (with Songnian Chen and Kaixin Zhang), reject and resubmit, *Journal of Econometrics*
+ (with Songnian Chen and Kaixi Zhang), reject and resubmit, *Journal of Econometrics*
  
 [Group-Heterogeneous Changes-in-Changes and Distributional Synthetic Controls](https://arxiv.org/abs/2307.15313) <br/>
  (with Songnian Chen), reject and resubmit, *Journal of Econometrics* 
